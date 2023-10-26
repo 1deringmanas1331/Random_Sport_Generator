@@ -1,5 +1,5 @@
 import random
-
+# Give the name and description of that particular game
 sports_and_games = [
     {
         "name": "Soccer",

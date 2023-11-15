@@ -83,7 +83,7 @@ sports_and_games = [
         "description": "A combat sport involving two fighters who punch each other with the goal of scoring points or knocking out the opponent.",
     },
 ]
- # Generates a
+ # Generates a Random Game with the description from the above Array
 def generate_random_sport_or_game():
     sport_or_game = random.choice(sports_and_games)
     return sport_or_game

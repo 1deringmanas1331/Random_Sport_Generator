@@ -1,5 +1,6 @@
 import random
-# Give the name and description of that particular game
+# Give the name and description of the game
+# Create an array to store the Name an Description
 sports_and_games = [
     {
         "name": "Soccer",
@@ -82,7 +83,7 @@ sports_and_games = [
         "description": "A combat sport involving two fighters who punch each other with the goal of scoring points or knocking out the opponent.",
     },
 ]
-
+ # Generates a
 def generate_random_sport_or_game():
     sport_or_game = random.choice(sports_and_games)
     return sport_or_game

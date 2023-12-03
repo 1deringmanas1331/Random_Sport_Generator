@@ -1,4 +1,4 @@
-# Import the random 
+# Import the Random lib
 import random
 # Give the name and description of the game
 # Create an array to store the Name an Description

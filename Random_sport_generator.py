@@ -1,6 +1,6 @@
-# Import the Random library
+# Import the Random Library
 import random
-# Give the name and description of the game
+# Give the name and description of the game  
 # Create an array to store the Name an Description
 sports_and_games = [
     {

@@ -88,7 +88,7 @@ sports_and_games = [
 def generate_random_sport_or_game():
     sport_or_game = random.choice(sports_and_games)
     return sport_or_game
-#Create a function to 
+#Create a function to print 
 if __name__ == "__main__":
     random_sport = generate_random_sport_or_game()
     print(f"Sport/Game: {random_sport['name']}")
